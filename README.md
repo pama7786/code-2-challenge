@@ -15,7 +15,7 @@
 
 1. Open terminal(Ctrl+Alt+T)
 
-2. git clone 
+2. git clone git@github.com:pama7786/code-2-challenge.git
 
 3. cd code-Challenge
 
@@ -30,7 +30,7 @@
 3. [Javascript](https://)
    
 
-##Brief DEMO of how this programme works
+-Brief DEMO of how this programme works
 
 
 |Behaviour                  | Input                                 |                                     output|
