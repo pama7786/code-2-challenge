@@ -7,7 +7,7 @@
 
 ## Description
 
-This project is a web application that allows a user to vote for the cutest animal
+-This project is a web application that allows a user to vote for the cutest animal
 
 
 
@@ -28,12 +28,16 @@ This project is a web application that allows a user to vote for the cutest anim
 1. [HTML](https://)
 2. [CSS](https://)
 3. [Javascript](https://)
+   
+
+##Brief DEMO of how this programme works
 
 
-###behaviour
-####Animal names doesn't show up
-
-
+|Behaviour                  | Input                                 |                                     output|
+| -----------------------   | ------------------------------------- | ----------------------------------------- |
+| animal names doesn't show |  json-server --watch db.json          |   it gives you names of animals           |
+| click(Animal name)        |                                       |   output animal of your choice            |
+| Enter votes               |  any amount of votes                  |   the amount of votes you have inserted   |
 
 
 
